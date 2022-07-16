@@ -1,0 +1,6 @@
+[submodule "minetest-go"]
+	path = minetest-go
+	url = https://github.com/ev2-1/minetest-go
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/ev2-1/minetest-go-plugins
